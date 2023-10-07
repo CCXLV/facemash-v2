@@ -100,7 +100,7 @@ app.post('/api/rating', async (req, res) => {
                 losersStatement.finalize();
             });
 
-            res.json({ data: 'Update rating' });
+            res.json({ data: 'Updated rating' });
         });
     });
 });

@@ -1,0 +1,52 @@
+img {
+    width: 60%; 
+    height: auto;
+}
+hr {
+    width: 90%;
+    border: 0.01rem solid gray;
+}
+.main-div {
+    display: flex;
+    width: 700px;
+    height: 100%;
+    left: 0;
+    right: 0;
+    margin: 40px auto;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.ranking-divs {
+    display: flex;
+    width: 90%;
+    height: 100px;
+    font-family: 'Poppins';
+    font-size: 18px;
+    gap: 50px;
+}
+.ranking-left-side {
+    display: flex;
+    height: 100%;
+    width: 400px;
+    align-items: center;
+    justify-content: left;
+    gap: 20px;
+}
+.ranking-span {
+    margin: 0;
+}
+.ranking-image-div {
+    display: flex;
+    height: 100%;
+    width: 160px;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+}
+.no-data {
+    display: flex;
+    left: 0;
+    right: 0;
+    margin: 100px auto;
+}

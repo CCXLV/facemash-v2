@@ -1,6 +1,6 @@
 Facemash like it is shown in The Social Network (2010)
 
-Made with Typescript and React
+Made in Typescript and React
 
 ### How to set up
 After downloading the code
